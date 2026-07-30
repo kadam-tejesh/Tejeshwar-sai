@@ -1,31 +1,173 @@
 <h1 align="center">Hi 👋, I'm Kadam Tejeshwar Sai</h1>
-<h3 align="center">An enthusiastic engineering aspirant who would like to secure a role in the field of software, Where I can apply my technical skills and analytical mindset to develop innovative solutions. Committed to leveraging my engineering knowledge to solve real-world problems efficiently.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadam-tejesh&label=Profile%20views&color=0e75b6&style=flat" alt="kadam-tejesh" /> </p>
+<h3 align="center">
+Java Backend Developer | AI & ML Graduate | Spring Boot & Microservices Enthusiast
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kadam-tejesh" alt="kadam-tejesh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Java Data Structures**
-
-- 👨‍💻 All of my projects are available at [https://github.com/kadam-tejesh/Machine-learning-models](https://github.com/kadam-tejesh/Machine-learning-models)
-
-- 📫 How to reach me **kadamtejesh07@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/kadam-tejesh/Tejeshwar-sai/blob/main/Kadam%20Tejeshwar%20Sai.pdf](https://github.com/kadam-tejesh/Tejeshwar-sai/blob/main/Kadam%20Tejeshwar%20Sai.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tejesh kadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejesh kadam" height="30" width="40" /></a>
-<a href="https://instagram.com/teje_sh1238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teje_sh1238" height="30" width="40" /></a>
+<p align="center">
+Passionate about building scalable backend systems, secure REST APIs, and AI-powered applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadam-tejesh&show_icons=true&locale=en&layout=compact" alt="kadam-tejesh" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadam-tejesh&show_icons=true&locale=en" alt="kadam-tejesh" /></p>
+- 🎓 B.Tech in Computer Science & Engineering (AI & ML) – SVCE, Tirupati (CGPA: **9.55/10**)
+- 💻 Backend Developer specializing in **Java, Spring Boot, Microservices**
+- 🤖 Interested in **Artificial Intelligence, Generative AI & Intelligent Applications**
+- 🌱 Currently learning **Advanced Data Structures, System Design & AI Application Development**
+- 🔭 Building scalable backend applications using **Spring Boot, Spring Security & JWT**
+- ⚡ Love solving real-world engineering problems through software
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadam-tejesh&" alt="kadam-tejesh" /></p>
+---
+
+## 💼 Experience
+
+### AI–Data Analyst Intern | Rooman Technologies
+**May 2025 – July 2025**
+
+- Automated data collection workflows using SQL & Python
+- Built structured data pipelines
+- Developed KPI dashboards for business reporting
+- Improved reporting turnaround time and reduced manual effort
+
+---
+
+## 🚀 Featured Projects
+
+### 🏭 Smart Warehouse & Order Fulfillment System
+
+**Tech Stack**
+
+Java • Spring Boot • Spring Security • JWT • Microservices • Eureka • Spring Cloud Gateway • Hibernate • MySQL • Feign Client
+
+**Highlights**
+
+- Microservices Architecture
+- JWT Authentication
+- API Gateway
+- Service Discovery (Eureka)
+- Dijkstra Algorithm for shortest warehouse route
+- REST APIs
+- Modular Backend Architecture
+
+🔗 Repository:
+https://github.com/kadam-tejesh
+
+---
+
+### 🌍 Landslide Detection from Satellite Imagery
+
+**Tech Stack**
+
+Python • TensorFlow • Keras • VGG19 • OpenCV • Pandas
+
+**Highlights**
+
+- Hybrid VGG19 + Gabor Filter architecture
+- 94.82% Accuracy
+- Image preprocessing & augmentation
+- Deep Learning based Computer Vision
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,mysql" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven,hibernate" />
+</p>
+
+**Also Experienced In**
+
+- Spring Boot
+- Spring Security
+- JPA
+- Hibernate
+- REST APIs
+- JWT Authentication
+- Microservices
+- Feign Client
+- Kafka
+- JUnit 5
+
+### AI / Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+- TensorFlow
+- Keras
+- OpenCV
+- Pandas
+- Scikit-Learn
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Java
+- Spring Boot Best Practices
+- System Design
+- Docker
+- Kubernetes
+- Artificial Intelligence Applications
+- LLMs & AI Agents
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kadam-tejesh&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadam-tejesh&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kadam-tejesh&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kadam-tejesh&theme=onedark&row=1&column=7"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** kadamtejesh07@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/tejesh-kadam
+
+🐙 **GitHub:** https://github.com/kadam-tejesh
+
+---
+
+## 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=kadam-tejesh&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+> *"Building scalable backend systems today while exploring the future of AI-powered software."*
